@@ -14,7 +14,7 @@ Importante lembrar que neste código em específico, procuramos o melhor preço 
 Bibliotecas Python utilizadas: 
  - Selenium - Te permite abrir navegadores através de webdriver (navegador que você pode enviar comandos python para ele)
  
-Depois:
+Depois: <br>
  1 - Escolher qual navegador quer utilizar ( recomendado o chrome, por ser mais estável)
  2 - Instalar esse navegador no PC do cliente
  3 - Instalar o Selenium via terminal - $ pip install selenium

@@ -15,10 +15,10 @@ Bibliotecas Python utilizadas:
  - Selenium - Te permite abrir navegadores através de webdriver (navegador que você pode enviar comandos python para ele)
  
 Depois: <br>
- 1 - Escolher qual navegador quer utilizar ( recomendado o chrome, por ser mais estável)
- 2 - Instalar esse navegador no PC do cliente
- 3 - Instalar o Selenium via terminal - $ pip install selenium
- 4 - Instalar um webdriver, através do webdriver-manager (pelo terminal) - $ pip install webdriver-manager
+ 1 - Escolher qual navegador quer utilizar ( recomendado o chrome, por ser mais estável) <br>
+ 2 - Instalar esse navegador no PC do cliente <br>
+ 3 - Instalar o Selenium via terminal - $ pip install selenium <br>
+ 4 - Instalar um webdriver, através do webdriver-manager (pelo terminal) - $ pip install webdriver-manager <br>
 
 Para extração de dados no navegador utilizamos o XPATH - O caminho para chegar até um elemento dentro do HTML
 

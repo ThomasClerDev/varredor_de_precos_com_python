@@ -16,12 +16,11 @@ Bibliotecas Python utilizadas:
  
 Depois:
  1 - Escolher qual navegador quer utilizar ( recomendado o chrome, por ser mais estável)
-  - Chrome
  2 - Instalar esse navegador no PC do cliente
  3 - Instalar o Selenium via terminal - $ pip install selenium
  4 - Instalar um webdriver, através do webdriver-manager (pelo terminal) - $ pip install webdriver-manager
 
 Para extração de dados no navegador utilizamos o XPATH - O caminho para chegar até um elemento dentro do HTML
 
-* - Para montar um XPATH, você precisa de digitar // e o nome da tag no "Inspecionar página - F11" e depois F8 para fazer essa pesquisa.
+* Para montar um XPATH, você precisa de digitar // e o nome da tag no "Inspecionar página - F11" e depois F8 para fazer essa pesquisa.
 Ficando: //nome_da_tag[@atributo='valor_do_atributo']
